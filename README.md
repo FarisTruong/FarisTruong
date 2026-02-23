@@ -8,7 +8,7 @@ Objective
 I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst, focusing on log analysis, alert triage, and building reliable detection workflows. My goal is to translate my interdisciplinary science background into security use cases (eg. securing IoT/geospatial sensors and data ingestion pipelines).
 
 Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 Skill	Associated Project
 SIEM Implementation and Log Analysis	Detection Lab
@@ -18,7 +18,7 @@ Incident Response Planning and Execution	SOC Automation Lab
 Case Management with TheHive	SOC Automation Lab
 Scripting and Automation for Threat Mitigation	SOC Automation Lab
 Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 Network
   

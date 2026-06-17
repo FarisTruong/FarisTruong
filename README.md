@@ -28,7 +28,7 @@ Offensive security. Vulnerability analysis, exploitation, and understanding how 
 - Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark
 
 **Languages**
-- Python, Bash, C
+- Python, Bash, C, R
 
 ---
 

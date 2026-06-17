@@ -1,35 +1,59 @@
-Hello, I'm Faris
-<a href="https://www.linkedin.com/in/faris-truong-a21904256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hey, I'm Faris
 
-I am currently studying a double degree: Bachelor of Information Technology (specialising in Cybersecurity) and Bachelor of Science (specialising in Geographical Science & Chemistry) at Monash University. I’m curious, hands-on, and driven to combine geospatial data and field devices with practical cybersecurity skills.
+I'm studying a double degree at Monash University, Bachelor of IT (Cybersecurity) and Bachelor of Science. I'm into offensive security, specifically finding and exploiting vulnerabilities, and I'm working toward a career in penetration testing.
 
-Objective
+Most of what I do right now is lab work, coursework, and building up a practical skill set from the ground up. OSCP is the goal.
 
-I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst, focusing on log analysis, alert triage, and building reliable detection workflows. My goal is to translate my interdisciplinary science background into security use cases (eg. securing IoT/geospatial sensors and data ingestion pipelines).
+---
 
-Skills
+## What I'm focused on
 
+Offensive security. Vulnerability analysis, exploitation, and understanding how systems break. I work in Kali Linux day to day and I'm currently going through TryHackMe rooms and building out a home lab alongside my university units.
 
-Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
-Tools
+---
 
+## Skills
 
-Network
-  
-Endpoint
- 
-SIEM
-  
-Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+**Exploitation and vulnerability work**
+- Stack-based buffer overflow exploitation
+- Vulnerability analysis and assessment
+- Web application enumeration
 
-    
-Projects
-Detection Lab
-SOC Automation Project
+**Networking**
+- TCP/IP, packet analysis with Wireshark
+- Network scanning and enumeration with Nmap
+- Firewall and IDS/IPS basics
+
+**Tools**
+- Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark
+
+**Languages**
+- Python, Bash, C
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Hacking Countermeasures | Charles Sturt University (IT Masters) | 2026 |
+
+---
+
+## Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [Buffer Overflow Write-up](https://github.com/FarisTruong) | Stack-based buffer overflow from FIT2173 Software Security | Coming soon |
+
+---
+
+## Currently working on
+
+- TryHackMe beginner rooms
+- Home lab setup for hands-on practice
+- Security+ exam prep
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faris-truong-a21904256/)
